@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Joker</string>
+    <string name="one_joke">Um eletricista vai até a UTI de um hospital, olha para os pacientes ligados a diversos tipos de aparelhos e diz-lhes: Respirem fundo: vou trocar o fusível.</string>
+    <string name="list_jokes">List Jokes</string>
+    <string name="show_joke">Show Joke Library</string>
+    <string name="pick_joke">Pick up a joke.</string>
+</resources>

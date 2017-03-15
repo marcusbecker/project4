@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1078368725563",
+    "firebase_url": "https://my-joker-acb2b.firebaseio.com",
+    "project_id": "my-joker-acb2b",
+    "storage_bucket": "my-joker-acb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078368725563:android:0941b46f6025f2db",
+        "android_client_info": {
+          "package_name": "br.com.mvbos.myjoker.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078368725563-bhm37osihuutrn2kbp26dbadlfj050fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPxIn7qe4T9tbi2LhlTeSgSbIqlphReM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
