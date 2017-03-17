@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">My Joker Library</string>
     <string name="no_joke">Sorry... No jokes for you.</string>
+    <string name="image_desc">Duck laughing</string>
 
     <string-array name="jokes">
         <item>O garoto apanhou da vizinha, e a mãe furiosa foi tomar satisfação: Por que a senhora bateu no meu filho? Ele foi mal-educado, e me chamou de gorda. E a senhora acha que vai emagrecer batendo nele?</item>

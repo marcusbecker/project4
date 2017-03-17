@@ -20,9 +20,8 @@ public class JokeSupply {
 
     public String[] getJokes() {
         Resources res = context.getResources();
-        String[] jokes = res.getStringArray(R.array.jokes);
 
-        return jokes;
+        return res.getStringArray(R.array.jokes);
     }
 
     public String getRamdomJoke() {

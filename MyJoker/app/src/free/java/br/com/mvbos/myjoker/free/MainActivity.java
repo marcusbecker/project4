@@ -36,9 +36,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void listJokes(View view) {
-    }
-
     public void pickJoke(View view) {
         JokeSupply js = new JokeSupply(MainActivity.this);
 

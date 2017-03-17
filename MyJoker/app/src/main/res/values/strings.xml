@@ -4,4 +4,5 @@
     <string name="list_jokes">List Jokes</string>
     <string name="show_joke">Show Joke Library</string>
     <string name="pick_joke">Pick up a joke.</string>
+    <string name="server_url">http://10.0.2.2:8080/_ah/api/</string>
 </resources>
